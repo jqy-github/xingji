@@ -9,8 +9,7 @@
 ## 行记地图的使用
 行记在App中共使用《苹果系统地图》和《高德地图》两款地图。
 
-高德地图服务协议链接：https://lbs.amap.com/pages/terms
-高德地图隐私政策链接：https://lbs.amap.com/pages/privacy
+高德地图服务协议链接：https://lbs.amap.com/pages/terms 高德地图隐私政策链接：https://lbs.amap.com/pages/privacy
 
 ## 本隐私政策的变更
 本隐私政策可能会不时地更新。因此，建议您定期查看此页面以了解更新后的内容。更新后的内容在此页面上发布后立即生效。
